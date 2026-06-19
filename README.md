@@ -301,8 +301,3 @@ streamlit run app.py
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
-
-```
-
-This README structure is similar to strong ML deployment repositories where they clearly separate **dataset → preprocessing → model → deployment → usage**. :contentReference[oaicite:1]{index=1}
-```
